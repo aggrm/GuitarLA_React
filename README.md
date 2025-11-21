@@ -1,4 +1,4 @@
-# GuitarLA_React
+# ProyectosReact
 
 Proyecto para practicar React — una pequeña aplicación con una colección de guitarras.
 
